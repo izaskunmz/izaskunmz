@@ -14,7 +14,7 @@ Mi objetivo es especializarme como **Cloud Engineer** o **DevOps Engineer**, com
 - ☁️ AWS para desplegar servicios cloud.
 - 🏗️ Terraform para definir infraestructura como código (IaC).
 - 📦 Git para control de versiones.
-- 📊 Monitorización y métricas con Prometheus y Grafana.
+- 📊 Monitorización y métricas con Grafana.
 - 🐧 Entornos Linux para despliegues y automatización.
 
 ---
