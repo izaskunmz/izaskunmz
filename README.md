@@ -24,6 +24,7 @@ Mi objetivo es especializarme como **Cloud Engineer** o **AI Engineer**, combina
 💼 Encontrarás proyectos completos como:
 
 - Despliegues cloud con **Terraform** en AWS.
+- Scripts de automatización (.sh).
 - Modelos de detección con HuggingFace. Link a [HuggingFace](https://huggingface.co/izaskunmz/yolov8-object-detection)
 - Modelo de predicción con XGBOOST.
 - API con Flask.
