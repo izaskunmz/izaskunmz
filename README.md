@@ -3,7 +3,7 @@
 ### 🚀 Sobre mí
 Soy una apasionada de la tecnología, la automatización y la nube. Con formación en Inteligencia Artificial, Big Data y un enfoque cada vez mayor en **Cloud Computing** e **Infraestructura como Código**.
 
-Mi objetivo es especializarme como **Cloud Engineer** o **DevOps Engineer**, combinando el desarrollo de soluciones escalables con la automatización y el despliegue en entornos cloud.
+Mi objetivo es especializarme como **Cloud Engineer** o **AI Engineer**, combinando el desarrollo de soluciones escalables con la automatización y el despliegue en entornos cloud.
 
 ---
 
@@ -21,13 +21,7 @@ Mi objetivo es especializarme como **Cloud Engineer** o **DevOps Engineer**, com
 
 ### 📂 Mis Proyectos
 
-> ⚠️ **IMPORTANTE:**  
-> Todo mi portafolio de proyectos técnicos de Cloud, DevOps e Infraestructura como Código está disponible en **GitLab**.  
-> Aquí tienes el enlace directo:
-
-🔗 [**Visita mi GitLab aquí**](https://gitlab.com/izaskunmz)
-
-💼 En GitLab encontrarás proyectos completos con:
+💼 Encontrarás proyectos completos con:
 
 - Despliegues cloud con **Terraform**.
 - Pipelines de automatización con **GitLab CI/CD**.
@@ -41,9 +35,3 @@ Mi objetivo es especializarme como **Cloud Engineer** o **DevOps Engineer**, com
 
 📧 Correo: [izaskunmunoz.dev@gmail.com](mailto:izaskunmunoz.dev@gmail.com)  
 🌐 LinkedIn: [linkedin.com/in/izaskun-muñoz-moraleja](https://linkedin.com/in/izaskun-muñoz-moraleja)
-
----
-
-### 🚀 ¡Nos vemos en GitLab!
-
-✨ [Visita mi portafolio en GitLab](https://gitlab.com/izaskunmz) ✨
